@@ -1,0 +1,19 @@
+{
+  "name": "Nombre del Token",
+  "symbol": "Símbolo del Token",
+  "decimals": 18,
+  "totalSupply": "1000000000000000000000000",
+  "description": "Descripción del Token",
+  "image": "https://example.com/token_image.png",
+  "external_url": "https://example.com/token_details",
+  "attributes": [
+    {
+      "trait_type": "Tipo de Atributo 1",
+      "value": "Valor del Atributo 1"
+    },
+    {
+      "trait_type": "Tipo de Atributo 2",
+      "value": "Valor del Atributo 2"
+    }
+  ]
+}
